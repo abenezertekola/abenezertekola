@@ -12,15 +12,12 @@
 - 📝 I write about tech on my [Telegram Blog](https://t.me/abtech_hub)  
 - 🌐 Check out my [Personal Website](https://abenezertekola.netlify.app/)  
 - 🎯 Goal: Build scalable solutions and share knowledge  
--  
+  
 
 ---
 
 ### **Let’s Connect**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abenezer-tekola-69b59536b)  
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ApparoT30142)  
-[![Telegram](https://img.shields.io/badge/-Telegram-%232CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/abtech_hub)  
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abenezer-tekola-69b59536b) [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ApparoT30142) [![Telegram](https://img.shields.io/badge/-Telegram-%232CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/abtech_hub)
 ---
 
 ### **Tech Stack**  
@@ -37,7 +34,5 @@
 
 ---
 
-📊 **GitHub Stats**:  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abenezertekola&show_icons=true&theme=radical)  
 
 
