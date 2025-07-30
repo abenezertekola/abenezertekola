@@ -1,38 +1,43 @@
 # Hello there! 👋 I'm Abenezer Tekola
 
 🚀 **Backend Developer Intern** @ Qemer Software Technology  
-💻 **Software Developer** | **Tech Enthusiast** | **Content Creator**
-📫 **Reach me**: abenezertekola65@gmail.com  
+💻 **Software Developer** | **Tech Enthusiast** | **Content Creator**  
+📫 **Reach me**: [abenezertekola65@gmail.com](mailto:abenezertekola65@gmail.com)  
 
 ---
 
 ### **About Me**  
 - 🔭 I’m currently working with **Node.js, Next.js, and Nest.js**  
 - 🌱 Learning **cloud technologies (AWS/Docker)** and **system design**  
-- 📝 I write about tech on my [[Telegram blog](https://t.me/abtech_hub)](#)  
-- 🎯 Goal: Build scalable solutions and share knowledge
-- [![personal website](https://abenezertekola.netlify.app/)  
-[![my telegram bolog](https://t.me/abtech_hub)    
-- ✨ Motto: *"Code, Deploy, Repeat!"*  
+- 📝 I write about tech on my [Telegram Blog](https://t.me/abtech_hub)  
+- 🌐 Check out my [Personal Website](https://abenezertekola.netlify.app/)  
+- 🎯 Goal: Build scalable solutions and share knowledge  
+-  
 
 ---
 
 ### **Let’s Connect**  
-[![LinkedIn](<img width="167" height="148" alt="aben" src="https://github.com/user-attachments/assets/d71ee985-e5c4-4400-b6fd-611fc1df835b" />
-)](https://www.linkedin.com/in/abenezer-tekola-69b59536b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Twitter](<img width="176" height="148" alt="x" src="https://github.com/user-attachments/assets/87409e80-ffe3-413b-9107-d2b12d79f1e9" />
-)](@ApparoT30142)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abenezer-tekola-69b59536b)  
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ApparoT30142)  
+[![Telegram](https://img.shields.io/badge/-Telegram-%232CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/abtech_hub)  
 
 ---
 
 ### **Tech Stack**  
 **Backend**:  
-  ![NestJS](![nestjs](https://github.com/user-attachments/assets/419c44a5-7014-4862-9ddd-c495f361f41e)
-)  
-![Node.js](![node](https://github.com/user-attachments/assets/5340c1da-83ae-4155-b543-95509f9e2724)
-)
-**Frontend**:  
-![Next.js](<img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/0ac415b8-282f-4495-bac8-127dea5647c3" />
-)  
+![NestJS](https://img.shields.io/badge/-NestJS-%E0234E?style=flat&logo=nestjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-%339933?style=flat&logo=nodedotjs&logoColor=white)  
 
-  
+**Frontend**:  
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat&logo=nextdotjs&logoColor=white)  
+
+**Tools**:  
+![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat&logo=amazonaws&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-%2496ED?style=flat&logo=docker&logoColor=white)  
+
+---
+
+📊 **GitHub Stats**:  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abenezertekola&show_icons=true&theme=radical)  
+
+
