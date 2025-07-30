@@ -2,10 +2,7 @@
 
 🚀 **Backend Developer Intern** @ Qemer Software Technology  
 💻 **Software Developer** | **Tech Enthusiast** | **Content Creator**
-
-[![Portfolio](https://abenezertekola.netlify.app/)  
-[![Telegram Blog](https://t.me/abtech_hub)  
-📫 **Reach me**: your.abenezertekola65@gmail.com  
+📫 **Reach me**: abenezertekola65@gmail.com  
 
 ---
 
@@ -13,7 +10,9 @@
 - 🔭 I’m currently working with **Node.js, Next.js, and Nest.js**  
 - 🌱 Learning **cloud technologies (AWS/Docker)** and **system design**  
 - 📝 I write about tech on my [[Telegram blog](https://t.me/abtech_hub)](#)  
-- 🎯 Goal: Build scalable solutions and share knowledge  
+- 🎯 Goal: Build scalable solutions and share knowledge
+- [![personal website](https://abenezertekola.netlify.app/)  
+[![my telegram bolog](https://t.me/abtech_hub)    
 - ✨ Motto: *"Code, Deploy, Repeat!"*  
 
 ---
@@ -36,4 +35,4 @@
 ![Next.js](<img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/0ac415b8-282f-4495-bac8-127dea5647c3" />
 )  
 
-🌟 **Fun Fact**: I drink more coffee than bytes processed! ☕  
+  
